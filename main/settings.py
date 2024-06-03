@@ -86,7 +86,7 @@ DATABASES = {
     }
 }
 
-GEOPOSITION_GOOGLE_MAPS_API_KEY = 'AIzaSyD3bbNnuSQUlRymM3Ry-L6tX78IDdLSCUY'
+GEOPOSITION_GOOGLE_MAPS_API_KEY = 'AIzaSyBqejJZsHka33oHyhcm75H8Y98zYj9joJQ'
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
